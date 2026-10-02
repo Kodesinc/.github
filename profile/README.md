@@ -1,21 +1,33 @@
 # Kodesinc
 
-**We automate what slows your business down.**
+We're an engineering team that builds AI automation for businesses.
 
-Kodesinc builds custom AI systems, autonomous agents, workflow automation and LLM integrations. They remove manual work, lower operating costs and let you scale without hiring more people.
+Most of our work is replacing the repetitive stuff people do by hand: copying data between tools, chasing approvals, sorting inbound leads, processing invoices. We build agents and workflows that take that over, and we connect LLMs to the products and systems our clients already use.
 
-### What we build
-- 🤖 **Custom AI Agents**: lead qualification, invoice processing, research, support
-- ⚙️ **AI Workflow Automation**: data entry, approvals, routing, reporting
-- 🧠 **LLM Integration & Fine-tuning**: adding AI to your existing product
-- 🔗 **n8n & Make Automation**
-- 📊 **AI Analytics**
-- 🧭 **CTO as a Service**
+## What we work on
 
-### By the numbers
-80+ projects delivered · 93% client satisfaction · 10+ industries automated
+- AI agents that qualify leads, process invoices, do research and handle support tickets
+- Workflow automation for data entry, approvals, routing and reporting
+- LLM integrations inside existing products, including fine-tuning when it's actually needed
+- n8n and Make builds, from single workflows to full back-office pipelines
+- Dashboards and analytics on top of the data these systems produce
+- Fractional CTO work for teams that need technical direction but aren't ready to hire
 
-### Where we work
-USA · UK · UAE · Saudi Arabia
+## How we work
 
-📩 contact@kodesinc.com · 🌐 [kodesinc.com](https://kodesinc.com)
+- We start by mapping the process as it runs today, before writing any code
+- We ship a working version early and improve it from real usage
+- Everything is documented and handed over, so you're never locked in
+- For healthcare and other regulated clients, compliance (HIPAA, GDPR) is part of the design from day one
+
+## Tools we use
+
+Python, TypeScript, Next.js, n8n, Make, OpenAI, Claude, LangChain, Postgres, Supabase, AWS, Vercel
+
+## Who we work with
+
+We've shipped 80+ projects across healthcare, real estate, e-commerce, logistics and professional services, mostly for clients in the US, UK, UAE and Saudi Arabia.
+
+If you have a process that eats up your team's week, we'd like to hear about it.
+
+contact@kodesinc.com · [www.kodesinc.com](https://www.kodesinc.com)
